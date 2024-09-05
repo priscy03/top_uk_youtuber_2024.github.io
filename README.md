@@ -10,11 +10,7 @@
 # Table of content
 
 - [Objective](#objective)
-
-- This is the first paragraph.
-
-This is the second paragraph.
-
+- test
 - [Data Source](#Data-Source)
 - [Stages](#Stages)
 - [Design](#Design)
