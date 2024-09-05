@@ -10,7 +10,7 @@
 # Table of content
 
 - [Objective](#objective)
-- [Data Source](#Data Source)
+- [Data Source](#Data-Source)
 - [Stages](#Stages)
 - [Design](#Design)
   - [Mockup](#Mockup)
